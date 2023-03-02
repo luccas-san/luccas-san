@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="18467372" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/mando-way-mandalorian-star-wars-this-is-the-way-gif-18467372">Mando Way Mandalorian GIF</a>from <a href="https://tenor.com/search/mando+way-gifs">Mando Way GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="18467372" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/mando-way-mandalorian-star-wars-this-is-the-way-gif-18467372">Mando Way Mandalorian GIF</a>from <a href="https://tenor.com/search/mando+way-gifs">Mando Way GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"  width="100" height="100"></script>
 
 
 
