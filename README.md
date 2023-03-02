@@ -1,5 +1,3 @@
-<div class="tenor-gif-embed" data-postid="7441597" data-share-method="host" data-aspect-ratio="1" data-width="100%" width="100" height="100"><a href="https://tenor.com/view/pixel-game-developerlife-developer-programmer-gif-7441597">Pixel Game GIF</a>from <a href="https://tenor.com/search/pixel-gifs">Pixel GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 👋 Hello, welcome to my Github profile. I'm Lucas. 
 Olá, bem-vindo ao meu perfil do Github. Eu sou o Lucas 👋
 
