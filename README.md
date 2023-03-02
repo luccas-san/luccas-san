@@ -14,6 +14,4 @@ Sou residente do Estado de São Paulo - Brasil 🇧🇷
 
 ## Ferramentas e Tecnologias
 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
