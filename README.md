@@ -8,9 +8,7 @@ Atualmente sou Estagiário na Atento, atuo no time de Desenvolvimento de Softwar
 Além da Faculdade dedico parte do meu tempo a prática da programação com cursos extracurriculares encontrados na Plataforma da Udemy e na Plataforma do Curso em Video.
 Atualmente estou cursando PHP, Git e Github e Wordpress.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
           
 
 Além de estudar inglêS pela Kultivi e pela plataforma Duolingo.
