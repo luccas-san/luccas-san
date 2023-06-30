@@ -9,14 +9,14 @@ Eu sou recém formado em ADS, Análise e Desenvolvimento de Sistemas. Frequentei
 Durante o período na faculdade tive contato com as Linguagens BackEnd C# e Python. E as Linguagens de Marcação HTML5 e CSS3.
 <br>During my time at college, I came into contact with the BackEnd languages C# and Python. And markup languages HTML5 and CSS3.
 
-Ferramentas e Tecnologias/Tools and Technologies: 
+### Ferramentas e Tecnologias/Tools and Technologies: 
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" height="100"/>
 
 
 Atualmente estou me dedicando à apredizagem da Linguagem Java. Acompanhe o meu Perfil para ver a minha evolução como DEV Java Jr.
 <br>I am currently dedicating myself to learning the Java language. Follow my Profile to see my evolution as a Java Jr DEV.
 
-Em Processo de Aprendizagem/In Learning Process:
+### Em Processo de Aprendizagem/In Learning Process:
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="180" height="180"/>
 
 <div>
@@ -24,3 +24,6 @@ Em Processo de Aprendizagem/In Learning Process:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-san&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccas-san&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+
+![Snake animation](https://github.com/luccas-san/luccas-san/blob/output/github-contribution-grid-snake.svg)
