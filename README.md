@@ -9,12 +9,12 @@ I have recently graduated in Sistems Analysis and Development. Attended college 
 Durante o período na faculdade tive contato com as Linguagens BackEnd C# e Python. E as Linguagens de Marcação HTML5 e CSS3.
 During my time at college, I came into contact with the BackEnd languages C# and Python. And markup languages HTML5 and CSS3.
 
-Ferramentas e Tecnologias: \n
-<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" height="100"/>
+Ferramentas e Tecnologias: 
+<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" height="100"/>
 
 
 Atualmente estou me dedicando à apredizagem da Linguagem Java. Acompanhe o meu Perfil para ver a minha evolução como DEV Java Jr.
 I am currently dedicating myself to learning the Java language. Follow my Profile to see my evolution as a Java Jr DEV.
 
 Em Processo de Aprendizagem:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="120" height="120"/>
