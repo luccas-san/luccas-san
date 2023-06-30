@@ -17,4 +17,4 @@ Atualmente estou me dedicando à apredizagem da Linguagem Java. Acompanhe o meu 
 I am currently dedicating myself to learning the Java language. Follow my Profile to see my evolution as a Java Jr DEV.
 
 Em Processo de Aprendizagem:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="120" height="120"/>
+<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="120" height="120"/>
