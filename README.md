@@ -10,7 +10,7 @@ Durante o período na faculdade tive contato com as Linguagens BackEnd C# e Pyth
 During my time at college, I came into contact with the BackEnd languages C# and Python. And markup languages HTML5 and CSS3.
 
 Ferramentas e Tecnologias:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 
 
 Atualmente estou me dedicando à apredizagem da Linguagem Java. Acompanhe o meu Perfil para ver a minha evolução como DEV Java Jr.
